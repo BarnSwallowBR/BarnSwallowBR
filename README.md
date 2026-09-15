@@ -1,88 +1,155 @@
-Barn Swallow
+<div align="center">
 
-Parceiro de tecnologia para PMEs que vendem por relacionamento.
+# 🐦 Barn Swallow
 
-Site: barnswallow.com.br · WhatsApp: +55 19 98439-9054 · Instagram: @barn_swallowbr CNPJ 62.960.006/0001-68 · Campinas–SP, Brasil
+### Não somos uma agência de marketing. Somos um parceiro de tecnologia.
 
-Não somos uma agência de marketing. Somos um parceiro de tecnologia. We don't just build websites. We transform businesses through technology.
+*We don't just build websites. We transform businesses through technology.*
 
-Sobre
+[![Site](https://img.shields.io/badge/site-barnswallow.com.br-1a1a1a?style=for-the-badge)](https://barnswallow.com.br)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55_19_98439--9054-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519984399054)
+[![Instagram](https://img.shields.io/badge/Instagram-@barn__swallowbr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/barn_swallowbr)
 
-A Barn Swallow ajuda empresas a vender mais, operar melhor e escalar com IA de forma prática, humana e mensurável. Não vendemos milagre — vendemos estrutura, automação e resultado com responsabilidade.
+📍 Campinas–SP, Brasil · CNPJ 62.960.006/0001-68
 
-Visão: ser uma agência pequena, enxuta e muito confiável, conhecida por entregar resultado real com automação, processo e inteligência comercial.
+</div>
 
-Não crescer é uma escolha. Quando há trade-off entre volume e confiabilidade, a resposta padrão é confiabilidade. Nada aqui é proposto para funcionar apenas com um time maior do que temos.
+---
 
-Manifesto
+## ✨ Sobre
 
-A Barn Swallow existe para transformar bagunça comercial em sistema, processo e previsibilidade. Valorizamos verdade, disciplina e entrega. A cada cliente, buscamos deixar um processo mais claro, uma operação mais leve e uma venda mais previsível.
+A Barn Swallow ajuda empresas a **vender mais, operar melhor e escalar com IA** — de forma prática, humana e mensurável.
 
-Time
+Não vendemos milagre. Vendemos estrutura, automação e resultado com responsabilidade.
 
-Duas pessoas — e isso é dado de arquitetura, não limitação temporária. Nada é terceirizado.
+> 🎯 **Não crescer é uma escolha.** Entre volume e confiabilidade, a resposta padrão é sempre confiabilidade.
 
-Sócio	Domínio
-Fernando Rocha	Estratégia, vendas, posicionamento, relacionamento com cliente
-Fernando Rocha Junior	Execução, automação, organização técnica, suporte operacional
+### O manifesto
 
-Toda proposta de crescimento passa antes por um teste de capacidade: duas pessoas conseguem sustentar isso em regime, não só entregar uma vez.
+> Transformamos bagunça comercial em sistema, processo e previsibilidade.
+> A cada cliente, deixamos um processo mais claro, uma operação mais leve e uma venda mais previsível.
 
-Cultura
-Valor	Na prática
-Responsabilidade total	O que foi prometido vira compromisso
-Honestidade radical com respeito	O que foi combinado é registrado; problema não se esconde, se resolve
-Disciplina operacional	Decisão sem dado é exceção; menos opinião, mais evidência
-Melhoria contínua	Cada projeto deixa o próximo mais rápido e mais confiável
-Foco no cliente e no resultado	Atraso é avisado antes, nunca depois
+---
 
-Regras de recusa — aplicadas a todo projeto que chega:
+## 👥 O time
 
-Escopo sem clareza mínima → não entra.
-Resultado que depende só do cliente e do mercado → não se vende.
-Sem objetivo, prazo e métrica definidos → não começa.
-Linhas de serviço
-Linha	Entregas
-Marketing Digital	Tráfego pago, SEO & Google Business, landing pages, redes sociais, relatórios
-Automação de Vendas	IA no WhatsApp, follow-up automático, lead scoring, distribuição de leads, painel
-Automação Financeira	Cobrança PIX & boleto, régua de cobrança, conciliação bancária, fluxo de caixa, integração contábil
-Inteligência Artificial	Agentes, chatbots, atendimento 24/7, base de conhecimento, qualificação de leads
-Desenvolvimento Sob Medida	Aplicações web, dashboards, integrações via API, automação de processos, nuvem
-CRM & Consultoria de Vendas	Diagnóstico comercial, desenho do funil, implantação de CRM, playbook, treinamento
+Duas pessoas. Zero terceirização. Isso é arquitetura, não estágio temporário.
 
-Metodologia de projeto: Descoberta → Estratégia → Implementação → Otimização
+<div align="center">
 
-ICP (perfil de cliente ideal): PMEs que vendem por relacionamento e perdem dinheiro por lentidão — clínicas e saúde, escritórios jurídicos, imobiliárias, indústrias, empresas de serviço, logística.
+| 🎯 Fernando Rocha | ⚙️ Fernando Rocha Junior |
+|:---:|:---:|
+| Estratégia · Vendas · Posicionamento · Relacionamento | Execução · Automação · Organização técnica · Suporte |
 
-Modelo comercial
+</div>
 
-Pacote em vigor: mídia social recorrente.
+> Toda proposta passa pelo teste: **duas pessoas sustentam isso em regime — ou só entregam uma vez?**
 
-Item	Volume mensal
-Investimento	R$ 1.400/mês por cliente, pagamento no dia 5
-Posts de feed	14 a 16 (3–4 por semana)
-Stories	~30 (diários)
-Entrega	1 lote por semana
+---
 
-Meta: 10 clientes = R$ 14.000/mês recorrente. Escala só via produção assistida (template, biblioteca de ganchos por setor, geração assistida, aprovação em lote) — não por mais horas.
+## 🧭 Cultura
 
-Serviços fora do pacote — implantação de CRM, software sob medida, agente de IA, automação financeira — são projeto à parte, com preço próprio.
+| Valor | O que isso significa na prática |
+|---|---|
+| 💪 Responsabilidade total | O que foi prometido vira compromisso |
+| 🗣️ Honestidade radical com respeito | O combinado é registrado. Problema não se esconde, se resolve |
+| 📐 Disciplina operacional | Decisão sem dado é exceção. Menos opinião, mais evidência |
+| 📈 Melhoria contínua | Cada projeto deixa o próximo mais rápido e mais confiável |
+| 🎯 Foco no cliente e no resultado | Atraso é avisado *antes*, nunca depois |
 
-Stack técnica
+### 🚫 As três regras de recusa
 
-OpenAI · Claude · Python · React · Next.js · TypeScript · Node.js · Docker · Cloudflare · Supabase · PostgreSQL · n8n · Google Cloud · Vercel
+1. Escopo sem clareza mínima → **não entra**
+2. Resultado que depende só do cliente e do mercado → **não se vende**
+3. Sem objetivo, prazo e métrica → **não começa**
 
-Ferramentas internas: CRM proprietário · Banco: Nubank · Arquivos e automações no servidor da empresa
+---
 
-Prova social
+## 🛠️ Linhas de serviço
 
-Case real, verificado e autorizado: mídia social do Ristorante Laura e Francesco (Vinhedo–SP).
+<div align="center">
 
-Onde não houver prova social confirmada, usamos prova de método — processo, diagnóstico, arquitetura, antes/depois de um fluxo — no lugar de métrica ou depoimento não verificado.
+| Linha | Entregas |
+|---|---|
+| 📣 **Marketing Digital** | Tráfego pago · SEO & Google Business · landing pages · redes sociais · relatórios |
+| 🤖 **Automação de Vendas** | IA no WhatsApp · follow-up automático · lead scoring · distribuição de leads · painel |
+| 💰 **Automação Financeira** | Cobrança PIX & boleto · régua de cobrança · conciliação bancária · fluxo de caixa |
+| 🧠 **Inteligência Artificial** | Agentes · chatbots · atendimento 24/7 · base de conhecimento · qualificação de leads |
+| 💻 **Desenvolvimento Sob Medida** | Aplicações web · dashboards · integrações via API · automação de processos · nuvem |
+| 📊 **CRM & Consultoria de Vendas** | Diagnóstico comercial · desenho do funil · implantação de CRM · playbook · treinamento |
 
-Contato
-WhatsApp: +55 19 98439-9054
-Site: barnswallow.com.br
-Instagram: @barn_swallowbr
+</div>
 
-Este README reflete a cultura e o posicionamento oficiais da Barn Swallow. Repositório privado — uso interno.
+**Metodologia:** Descoberta → Estratégia → Implementação → Otimização
+
+**🎯 ICP:** PMEs que vendem por relacionamento e perdem dinheiro por lentidão — clínicas e saúde, escritórios jurídicos, imobiliárias, indústrias, empresas de serviço, logística.
+
+---
+
+## 💸 Modelo comercial
+
+<div align="center">
+
+### Pacote em vigor: mídia social recorrente
+
+**R$ 1.400/mês** por cliente · pagamento no dia 5
+
+| 📅 Posts de feed | 📱 Stories | 📦 Entrega |
+|:---:|:---:|:---:|
+| 14 a 16/mês (3–4/semana) | ~30/mês (diários) | 1 lote por semana |
+
+### 🎯 Meta: 10 clientes = R$ 14.000/mês recorrente
+
+</div>
+
+Escala só via produção **assistida** — template, biblioteca de ganchos por setor, geração assistida, aprovação em lote. Nunca via "mais horas".
+
+> Software sob medida, CRM, agente de IA e automação financeira são **projeto à parte**, com preço próprio.
+
+---
+
+## ⚡ Stack técnica
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+**Ferramentas internas:** CRM proprietário · Banco Nubank · Arquivos e automações no servidor da empresa
+
+---
+
+## 🏆 Prova social
+
+Case real, verificado e autorizado: **Ristorante Laura e Francesco** (Vinhedo–SP) 🍝
+
+Onde não há prova social confirmada, usamos **prova de método** — processo, diagnóstico, arquitetura, antes/depois de um fluxo — no lugar de número inventado.
+
+---
+
+<div align="center">
+
+## 📬 Vamos conversar
+
+[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519984399054)
+[![Site](https://img.shields.io/badge/Visitar_o_site-1a1a1a?style=for-the-badge)](https://barnswallow.com.br)
+
+---
+
+*Repositório privado — uso interno da Barn Swallow.* 🐦
+
+</div>
